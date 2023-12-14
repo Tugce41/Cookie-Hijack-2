@@ -1,4 +1,4 @@
-Çerezle ilgili başlıklar için düz metin HTTP trafiğini algılar ve ardından bunları bekleyen dinleyicilere enjekte eder.
+Çerezle ilgili başlıklar için HTTP trafiğini algılar ve ardından bunları bekleyen dinleyicilere enjekte eder.
 
 Birincil dinleyici bunları bir WebSocket sunucusuna gönderir, beraberindeki Chrome / Firefox uzantılarını kullanarak mevcut WebSocket sunucusuna bağlanarak çerezleri tarayıcıya gerçek zamanlı olarak enjekte eder.
 
