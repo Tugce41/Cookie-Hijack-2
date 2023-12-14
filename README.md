@@ -16,7 +16,7 @@ python setup.py install
 Öncelikle iki tarayıcı uzantısından birini yükleyin:
 
 <li>https://github.com/ecradock/chrome-extension-cookie-injector</li>
-<li>https://github.com/ecradock/firefox-extension-cookie-injector</li>
+<li>https://github.com/Tugce41/eklenti-paketi-firefox-extension-cookie-injector.git</li>
 
 
 Genel kullanım:
